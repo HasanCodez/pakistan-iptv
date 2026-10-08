@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pakistan & International IPTV Playlist</title>
+  <meta name="description" content="Curated, clean, balanced Pakistan-focused IPTV playlist verified from official iptv-org data.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0b0f19;
+      --card-bg: rgba(22, 30, 49, 0.75);
+      --card-border: rgba(255, 255, 255, 0.1);
+      --accent: #10b981;
+      --accent-glow: rgba(16, 185, 129, 0.25);
+      --text: #f3f4f6;
+      --text-muted: #9ca3af;
+      --primary-btn: #059669;
+      --primary-btn-hover: #047857;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: 'Outfit', sans-serif;
+    }
+
+    body {
+      background-color: var(--bg);
+      background-image: 
+        radial-gradient(at 0% 0%, rgba(16, 185, 129, 0.12) 0px, transparent 50%),
+        radial-gradient(at 100% 100%, rgba(59, 130, 246, 0.12) 0px, transparent 50%);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2.5rem 1rem;
+    }
+
+    .container {
+      max-width: 900px;
+      width: 100%;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 2.5rem;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 0.35rem 0.9rem;
+      border-radius: 9999px;
+      background: rgba(16, 185, 129, 0.15);
+      color: #34d399;
+      font-size: 0.85rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      margin-bottom: 1rem;
+      border: 1px solid rgba(16, 185, 129, 0.3);
+    }
+
+    h1 {
+      font-size: 2.75rem;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 0.75rem;
+      background: linear-gradient(135deg, #ffffff 0%, #a7f3d0 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    p.subtitle {
+      font-size: 1.15rem;
+      color: var(--text-muted);
+      max-width: 680px;
+      margin: 0 auto;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 1rem;
+      padding: 2rem;
+      backdrop-filter: blur(16px);
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+      margin-bottom: 2rem;
+    }
+
+    .url-box-label {
+      font-size: 0.9rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #34d399;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .url-container {
+      display: flex;
+      gap: 0.75rem;
+      background: rgba(11, 15, 25, 0.8);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      border-radius: 0.75rem;
+      padding: 0.5rem 0.75rem;
+      align-items: center;
+      margin-bottom: 1.25rem;
+    }
+
+    .url-input {
+      flex: 1;
+      background: transparent;
+      border: none;
+      color: #6ee7b7;
+      font-size: 1rem;
+      font-family: monospace;
+      outline: none;
+      word-break: break-all;
+    }
+
+    .btn {
+      cursor: pointer;
+      font-weight: 600;
+      padding: 0.65rem 1.4rem;
+      border-radius: 0.5rem;
+      border: none;
+      transition: all 0.2s ease;
+      font-size: 0.95rem;
+    }
+
+    .btn-primary {
+      background: var(--primary-btn);
+      color: white;
+    }
+
+    .btn-primary:hover {
+      background: var(--primary-btn-hover);
+      box-shadow: 0 0 15px var(--accent-glow);
+    }
+
+    .btn-secondary {
+      background: rgba(255, 255, 255, 0.08);
+      color: var(--text);
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255, 255, 255, 0.15);
+    }
+
+    .actions {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 1.25rem;
+      margin-bottom: 2rem;
+    }
+
+    .stat-card {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+      border-radius: 0.75rem;
+      padding: 1.25rem;
+      text-align: center;
+    }
+
+    .stat-number {
+      font-size: 2rem;
+      font-weight: 700;
+      color: #34d399;
+      margin-bottom: 0.25rem;
+    }
+
+    .stat-label {
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    h2 {
+      font-size: 1.4rem;
+      margin-bottom: 1rem;
+      color: #e5e7eb;
+    }
+
+    ol {
+      margin-left: 1.5rem;
+      color: #d1d5db;
+      line-height: 1.7;
+    }
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+
+    code {
+      background: rgba(255, 255, 255, 0.1);
+      padding: 0.15rem 0.4rem;
+      border-radius: 0.25rem;
+      color: #a7f3d0;
+      font-size: 0.9em;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: auto;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      padding-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="badge">Official iptv-org Verified Streams</div>
+      <h1>Pakistan & International IPTV</h1>
+      <p class="subtitle">Curated, balanced playlist featuring Pakistan, Iran, major global English news, and comprehensive international sports (Cricket, Football, F1 & Combat Sports).</p>
+    </header>
+
+    <div class="card">
+      <div class="url-box-label">Single Online M3U Playlist URL (for HotPlayer & IPTV Apps)</div>
+      <div class="url-container">
+        <input type="text" class="url-input" id="playlist-url" readonly value="">
+        <button class="btn btn-primary" onclick="copyUrl()">Copy URL</button>
+      </div>
+      <div class="actions">
+        <a href="pakistan-iptv.m3u" download="pakistan-iptv.m3u" class="btn btn-secondary">Direct M3U Download</a>
+        <a href="https://github.com/iptv-org/iptv" target="_blank" rel="noopener" class="btn btn-secondary">Source: iptv-org</a>
+      </div>
+    </div>
+
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-number">112</div>
+        <div class="stat-label">Total Verified Channels</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">25</div>
+        <div class="stat-label">Pakistan Channels</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">24</div>
+        <div class="stat-label">Iran Channels</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">24</div>
+        <div class="stat-label">English News Channels</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">39</div>
+        <div class="stat-label">Sports Channels</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>How to Add to HotPlayer</h2>
+      <ol>
+        <li>Open <strong>HotPlayer</strong> on your Smart TV, Android TV, or mobile device.</li>
+        <li>Visit the HotPlayer management portal (e.g. <code>hotplayer.app</code>) or go to <strong>Settings &rarr; Add Playlist</strong> in the app.</li>
+        <li>Enter your MAC address/Device Key if prompted.</li>
+        <li>Select <strong>Playlist Type: M3U URL</strong>.</li>
+        <li>Paste the <strong>M3U Playlist URL</strong> copied above into the URL field.</li>
+        <li>Click <strong>Upload / Save</strong> and reload the HotPlayer app.</li>
+      </ol>
+    </div>
+
+    <footer>
+      <p>Data sourced strictly from official iptv-org repository. Free & open public streams only.</p>
+    </footer>
+  </div>
+
+  <script>
+    const currentUrl = window.location.href.split('?')[0].split('#')[0];
+    const baseUrl = currentUrl.endsWith('/') ? currentUrl : currentUrl.substring(0, currentUrl.lastIndexOf('/') + 1);
+    const m3uUrl = baseUrl + 'pakistan-iptv.m3u';
+    document.getElementById('playlist-url').value = m3uUrl;
+
+    function copyUrl() {
+      const input = document.getElementById('playlist-url');
+      input.select();
+      navigator.clipboard.writeText(input.value).then(() => {
+        alert('Playlist URL copied to clipboard!');
+      });
+    }
+  </script>
+</body>
+</html>

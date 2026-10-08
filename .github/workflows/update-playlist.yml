@@ -1,0 +1,79 @@
+name: Update and Deploy Playlist
+
+on:
+  schedule:
+    # Run every Monday at 04:00 UTC
+    - cron: '0 4 * * 1'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Regenerate playlist
+        run: |
+          python generate_playlist.py
+
+      - name: Validate generated playlist
+        run: |
+          if [ ! -s pakistan-iptv.m3u ]; then
+            echo "Error: pakistan-iptv.m3u is empty or missing!"
+            exit 1
+          fi
+          CHANNEL_COUNT=$(grep -c "^#EXTINF" pakistan-iptv.m3u || true)
+          echo "Generated channel count: $CHANNEL_COUNT"
+          if [ "$CHANNEL_COUNT" -lt 50 ]; then
+            echo "Error: Suspiciously low channel count ($CHANNEL_COUNT). Aborting publish."
+            exit 1
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add pakistan-iptv.m3u
+          if git diff --staged --quiet; then
+            echo "No changes in playlist."
+          else
+            git commit -m "chore: auto-update playlist [skip ci]"
+            git push origin main
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact for GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

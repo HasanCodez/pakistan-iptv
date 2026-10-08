@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local cache & exploration logs
+*.log
+*.txt
+all_index_entries.json
+candidates_to_test.json
+validation_results.json
+index.m3u
+raw_streams_pk.m3u
+raw_streams_ir.m3u
+explore_out.txt
+sports_entries.json
+news_entries.json
+pk_entries.json
+ir_entries.json
+streams.json
