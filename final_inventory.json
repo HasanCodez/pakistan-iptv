@@ -688,7 +688,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "Al Jazeera English (1080p)",
     "clean_name": "Al Jazeera English",
     "tvg_id": "AlJazeera.qa@English",
@@ -702,7 +702,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "BBC News North America (1080p)",
     "clean_name": "BBC News North America",
     "tvg_id": "BBCNews.uk@NorthAmerica",
@@ -716,7 +716,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "BBC News South Asia (720p)",
     "clean_name": "BBC News South Asia",
     "tvg_id": "BBCNews.uk@SouthAsia",
@@ -730,7 +730,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "DW English (1080p)",
     "clean_name": "DW English",
     "tvg_id": "DW.de@English",
@@ -744,7 +744,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "France 24 English (1080p)",
     "clean_name": "France 24 English",
     "tvg_id": "France24.fr@English",
@@ -758,7 +758,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "Euronews English (720p)",
     "clean_name": "Euronews English",
     "tvg_id": "EuronewsEnglish.fr@SD",
@@ -772,7 +772,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "TRT World (720p)",
     "clean_name": "TRT World",
     "tvg_id": "TRTWorld.tr@SD",
@@ -786,7 +786,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "CGTN (1080p)",
     "clean_name": "CGTN",
     "tvg_id": "CGTN.cn@SD",
@@ -800,7 +800,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "NHK World-Japan (1080p)",
     "clean_name": "NHK World-Japan",
     "tvg_id": "NHKWorldJapan.jp@SD",
@@ -814,7 +814,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "ABC News Live (720p)",
     "clean_name": "ABC News Live",
     "tvg_id": "ABCNewsLive.us@SD",
@@ -828,7 +828,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "CBS News 24/7 (720p)",
     "clean_name": "CBS News 24/7",
     "tvg_id": "CBSNews247.us@SD",
@@ -842,7 +842,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "NBC News NOW (1080p)",
     "clean_name": "NBC News NOW",
     "tvg_id": "NBCNewsNOW.us@SD",
@@ -856,7 +856,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "Bloomberg TV Europe (720p)",
     "clean_name": "Bloomberg TV Europe",
     "tvg_id": "BloombergTV.us@Europe",
@@ -870,7 +870,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "Bloomberg TV Asia (720p)",
     "clean_name": "Bloomberg TV Asia",
     "tvg_id": "BloombergTV.us@Asia",
@@ -884,7 +884,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "Bloomberg Originals (1080p)",
     "clean_name": "Bloomberg Originals",
     "tvg_id": "BloombergOriginals.us@US",
@@ -898,7 +898,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "Bloomberg TV+ (2160p)",
     "clean_name": "Bloomberg TV+",
     "tvg_id": "BloombergTV.us@Plus",
@@ -912,7 +912,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "CNBC UK (1080p)",
     "clean_name": "CNBC UK",
     "tvg_id": "CNBCUK.uk@SD",
@@ -926,7 +926,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "CNBC TV18 (1080p)",
     "clean_name": "CNBC TV18",
     "tvg_id": "CNBCTV18.in@SD",
@@ -940,7 +940,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "CNBC Arabiya (1080p)",
     "clean_name": "CNBC Arabiya",
     "tvg_id": "CNBCArabiya.ae@SD",
@@ -954,7 +954,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "Reuters TV (1080p)",
     "clean_name": "Reuters TV",
     "tvg_id": "ReutersTV.us@SD",
@@ -968,7 +968,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "CNA International (576p)",
     "clean_name": "CNA International",
     "tvg_id": "CNAInternational.sg@SD",
@@ -982,7 +982,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "CNA Originals (1080p)",
     "clean_name": "CNA Originals",
     "tvg_id": "CNAOriginals.sg@SD",
@@ -996,7 +996,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "WION (1080p)",
     "clean_name": "WION",
     "tvg_id": "WION.in@SD",
@@ -1010,7 +1010,7 @@
     "headers": []
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "Sky News Arabia (1080p)",
     "clean_name": "Sky News Arabia",
     "tvg_id": "SkyNewsArabia.ae@HD",

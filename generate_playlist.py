@@ -35,6 +35,10 @@ def generate_playlist():
     current_group = None
     for ch in channels:
         group = ch.get('group', 'Other')
+        # Normalize group if needed
+        if group == 'English News':
+            group = 'English | News'
+            
         if group != current_group:
             current_group = group
             m3u_lines.append(f'# ==========================================')
@@ -69,6 +73,9 @@ def generate_playlist():
                 
         extinf_line = ' '.join(extinf_parts) + f',{name}'
         m3u_lines.append(extinf_line)
+        
+        # Add #EXTGRP for maximum HotPlayer & IPTV client compatibility
+        m3u_lines.append(f'#EXTGRP:{group}')
         
         # Add VLC opt headers if present
         for h in headers:

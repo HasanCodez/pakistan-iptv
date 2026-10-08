@@ -4,372 +4,481 @@
 # GROUP: Pakistan | News
 # ==========================================
 #EXTINF:-1 tvg-id="DunyaNews.pk@SD" tvg-name="Dunya News" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="Pakistan | News",Dunya News (720p)
+#EXTGRP:Pakistan | News
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SamaaTV.pk@SD" tvg-name="Samaa TV" tvg-logo="https://i.imgur.com/r3U4A1P.png" group-title="Pakistan | News",Samaa TV (576p)
+#EXTGRP:Pakistan | News
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
 
 #EXTINF:-1 tvg-id="92NewsHD.pk@SD" tvg-name="92 News HD" tvg-logo="https://i.imgur.com/eqKrL9S.png" group-title="Pakistan | News",92 News HD (720p)
+#EXTGRP:Pakistan | News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24NewsHD.pk@SD" tvg-name="24 News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png" group-title="Pakistan | News",24 News HD (HD)
+#EXTGRP:Pakistan | News
 https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NeoNews.pk@SD" tvg-name="Neo News" tvg-logo="https://i.imgur.com/9mrbPRs.png" group-title="Pakistan | News",Neo News (1080p)
+#EXTGRP:Pakistan | News
 https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABNNews.pk@SD" tvg-name="ABN News" tvg-logo="https://i.imgur.com/R7BThkR.jpeg" group-title="Pakistan | News",ABN News (360p)
+#EXTGRP:Pakistan | News
 https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CapitalTV.pk@SD" tvg-name="Capital TV" tvg-logo="https://i.imgur.com/UxAE5O4.png" group-title="Pakistan | News",Capital TV (SD)
+#EXTGRP:Pakistan | News
 https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
 
 #EXTINF:-1 tvg-id="LahoreNews.pk@SD" tvg-name="Lahore News" tvg-logo="https://i.imgur.com/bQfQeEA.jpeg" group-title="Pakistan | News",Lahore News (720p)
+#EXTGRP:Pakistan | News
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NewsOne.pk@SD" tvg-name="News One" tvg-logo="https://i.imgur.com/ivrRYMk.png" group-title="Pakistan | News",News One (720p)
+#EXTGRP:Pakistan | News
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7News.pk@SD" tvg-name="7 News" tvg-logo="https://i.imgur.com/PTl92P5.png" group-title="Pakistan | News",7 News (720p)
+#EXTGRP:Pakistan | News
 https://sscsott.com/7news/live/index.m3u8
 
 #EXTINF:-1 tvg-id="AikNews.pk@SD" tvg-name="Aik News" tvg-logo="https://i.imgur.com/svPXoAP.png" group-title="Pakistan | News",Aik News (SD)
+#EXTGRP:Pakistan | News
 https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2
 
 #EXTINF:-1 tvg-id="SuchTV.pk@SD" tvg-name="Such TV" tvg-logo="https://i.imgur.com/yYMh3JJ.png" group-title="Pakistan | News",Such TV (SD)
+#EXTGRP:Pakistan | News
 https://video.primexsports.com/suchnews/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KTNNews.pk@SD" tvg-name="KTN News" tvg-logo="https://i.imgur.com/RtEzpPQ.png" group-title="Pakistan | News",KTN News (360p)
+#EXTGRP:Pakistan | News
 https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MNews.pk@SD" tvg-name="M News" tvg-logo="https://mnews.pk/wp-content/uploads/2025/10/mnews-logo-news.png" group-title="Pakistan | News",M News (1080p)
+#EXTGRP:Pakistan | News
 https://cdn.rabta.stream/M-News/index.m3u8
 
 # ==========================================
 # GROUP: Pakistan | Entertainment
 # ==========================================
 #EXTINF:-1 tvg-id="HumTV.pk@HD" tvg-name="Hum TV" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="Pakistan | Entertainment",Hum TV (720p)
+#EXTGRP:Pakistan | Entertainment
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="BolEntertainment.pk@HD" tvg-name="Bol Entertainment" tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Pakistan | Entertainment",Bol Entertainment (HD)
+#EXTGRP:Pakistan | Entertainment
 https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="APlusTV.pk@SD" tvg-name="A-Plus TV" tvg-logo="https://i.imgur.com/uu0UJme.png" group-title="Pakistan | Entertainment",A-Plus TV (SD)
+#EXTGRP:Pakistan | Entertainment
 https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8
 
 #EXTINF:-1 tvg-id="MasalaTV.pk@SD" tvg-name="Masala TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" group-title="Pakistan | Entertainment",Masala TV (576p)
+#EXTGRP:Pakistan | Entertainment
 https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Filmax.pk@SD" tvg-name="Filmax" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="Pakistan | Entertainment",Filmax (576p)
+#EXTGRP:Pakistan | Entertainment
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
 
 #EXTINF:-1 tvg-id="8XM.pk@HD" tvg-name="8XM" tvg-logo="https://i.ibb.co/Kc0xHyBb/8XM-Logo.png" group-title="Pakistan | Entertainment",8XM (HD)
+#EXTGRP:Pakistan | Entertainment
 https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
 
 #EXTINF:-1 tvg-id="JooMusic.pk@SD" tvg-name="JooMusic" tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="Pakistan | Entertainment",JooMusic (720p)
+#EXTGRP:Pakistan | Entertainment
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 # ==========================================
 # GROUP: Pakistan | General
 # ==========================================
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-name="Discover Pakistan" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Pakistan | General",Discover Pakistan (1080p)
+#EXTGRP:Pakistan | General
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="aurLifeHD.pk@SD" tvg-name="aurLife" tvg-logo="https://i.imgur.com/GfWLn3O.jpg" group-title="Pakistan | General",aurLife (614p)
+#EXTGRP:Pakistan | General
 http://124.109.47.101/hls/stream1.m3u8
 
 # ==========================================
 # GROUP: Pakistan | Sports
 # ==========================================
 #EXTINF:-1 tvg-id="PKSports.pk@SD" tvg-name="PK Sports" tvg-logo="https://i.imgur.com/qtbSnrY.png" group-title="Pakistan | Sports",PK Sports (720p)
+#EXTGRP:Pakistan | Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MSports.pk@SD" tvg-name="M Sports" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Pakistan | Sports",M Sports (1080p)
+#EXTGRP:Pakistan | Sports
 https://cdn.rabta.stream/M-Sports/index.m3u8
 
 # ==========================================
 # GROUP: Iran | News
 # ==========================================
 #EXTINF:-1 tvg-id="IRINN.ir@SD" tvg-name="IRINN" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="Iran | News",IRINN (576p)
+#EXTGRP:Iran | News
 http://185.9.2.18/chid_926/index.m3u8
 
 #EXTINF:-1 tvg-id="PressTV.ir@SD" tvg-name="Press TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" group-title="Iran | News" http-referrer="https://odysee.com/",Press TV (720p)
+#EXTGRP:Iran | News
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf0002824df4492/master.m3u8
 
 #EXTINF:-1 tvg-id="PressTVFrench.ir@SD" tvg-name="Press TV French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" group-title="Iran | News",Press TV French (1080p)
+#EXTGRP:Iran | News
 https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlAlam.ir@SD" tvg-name="Al Alam" tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="Iran | News",Al Alam (360p)
+#EXTGRP:Iran | News
 https://live2.alalam.ir/alalam.m3u8
 
 #EXTINF:-1 tvg-id="IranPress.ir@SD" tvg-name="Iran Press" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg/960px-%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg" group-title="Iran | News",Iran Press (SD)
+#EXTGRP:Iran | News
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 
 #EXTINF:-1 tvg-id="IranInternational.uk@SD" tvg-name="Iran International" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="Iran | News",Iran International (1080p)
+#EXTGRP:Iran | News
 https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
 
 # ==========================================
 # GROUP: Iran | Entertainment
 # ==========================================
 #EXTINF:-1 tvg-id="iFilmEnglish.ir@SD" tvg-name="iFilm English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Iran | Entertainment",iFilm English (SD)
+#EXTGRP:Iran | Entertainment
 https://live.presstv.ir/hls/ifilmen.m3u8
 
 #EXTINF:-1 tvg-id="iFilmPersian.ir@SD" tvg-name="iFilm Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Iran | Entertainment",iFilm Persian (SD)
+#EXTGRP:Iran | Entertainment
 https://live.presstv.ir/hls/ifilmfa.m3u8
 
 #EXTINF:-1 tvg-id="iFilmArabic.ir@SD" tvg-name="iFilm Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Iran | Entertainment",iFilm Arabic (SD)
+#EXTGRP:Iran | Entertainment
 https://live.presstv.ir/hls/ifilmar.m3u8
 
 #EXTINF:-1 tvg-id="iFilm2.ir@SD" tvg-name="iFilm 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png" group-title="Iran | Entertainment",iFilm 2 (SD)
+#EXTGRP:Iran | Entertainment
 https://live.presstv.ir/hls/ifilm2.m3u8
 
 #EXTINF:-1 tvg-id="FX1.ir@SD" tvg-name="FX 1" group-title="Iran | Entertainment",FX 1 (SD)
+#EXTGRP:Iran | Entertainment
 https://fxtvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="FX2.ir@SD" tvg-name="FX 2" group-title="Iran | Entertainment",FX 2 (SD)
+#EXTGRP:Iran | Entertainment
 https://toonixhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaIranian.fr@SD" tvg-name="Persiana Iranian" tvg-logo="https://i.imgur.com/vqrrpBi.png" group-title="Iran | Entertainment",Persiana Iranian (SD)
+#EXTGRP:Iran | Entertainment
 https://irhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="BravoFarsiTV.ir@SD" tvg-name="Bravo Farsi TV" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" group-title="Iran | Entertainment",Bravo Farsi TV (360p)
+#EXTGRP:Iran | Entertainment
 https://bravoohls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="CafeFilm.ir@SD" tvg-name="Cafe Film" group-title="Iran | Entertainment",Cafe Film (SD)
+#EXTGRP:Iran | Entertainment
 https://cafefhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="GoldStar.ir@SD" tvg-name="Gold Star" group-title="Iran | Entertainment",Gold Star (SD)
+#EXTGRP:Iran | Entertainment
 https://moviethls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="NewFlix.ir@SD" tvg-name="NewFlix" group-title="Iran | Entertainment",NewFlix (SD)
+#EXTGRP:Iran | Entertainment
 https://newfhls.wns.live/hls/stream.m3u8
 
 # ==========================================
 # GROUP: Iran | General
 # ==========================================
 #EXTINF:-1 tvg-id="IRIB1.ir@SD" tvg-name="IRIB 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/960px-IRIBTV1.svg.png" group-title="Iran | General",IRIB 1 (SD)
+#EXTGRP:Iran | General
 https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IRIB2.ir@SD" tvg-name="IRIB 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/960px-IRIB_TV2_logo.svg.png" group-title="Iran | General",IRIB 2 (SD)
+#EXTGRP:Iran | General
 https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IRIB4.ir@SD" tvg-name="IRIB 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/960px-IRIB_TV4_logo.svg.png" group-title="Iran | General",IRIB 4 (SD)
+#EXTGRP:Iran | General
 https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IRIBMostanad.ir@SD" tvg-name="IRIB Mostanad" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png" group-title="Iran | General",IRIB Mostanad (SD)
+#EXTGRP:Iran | General
 https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IRIBUHD.ir@4K" tvg-name="IRIB UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png" group-title="Iran | General",IRIB UHD (2160p)
+#EXTGRP:Iran | General
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
 # ==========================================
 # GROUP: Iran | Sports
 # ==========================================
 #EXTINF:-1 tvg-id="IRIB3.ir@SD" tvg-name="IRIB 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png" group-title="Iran | Sports",IRIB 3 (SD)
+#EXTGRP:Iran | Sports
 https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VarzeshTV.ir@SD" tvg-name="Varzesh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="Iran | Sports",Varzesh TV (SD)
+#EXTGRP:Iran | Sports
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 
 # ==========================================
-# GROUP: English News
+# GROUP: English | News
 # ==========================================
-#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="English News",Al Jazeera English (1080p)
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="English | News",Al Jazeera English (1080p)
+#EXTGRP:English | News
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" tvg-name="BBC News North America" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="English News",BBC News North America (1080p)
+#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" tvg-name="BBC News North America" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="English | News",BBC News North America (1080p)
+#EXTGRP:English | News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCNews.uk@SouthAsia" tvg-name="BBC News South Asia" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="English News",BBC News South Asia (720p)
+#EXTINF:-1 tvg-id="BBCNews.uk@SouthAsia" tvg-name="BBC News South Asia" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="English | News",BBC News South Asia (720p)
+#EXTGRP:English | News
 https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
 
-#EXTINF:-1 tvg-id="DW.de@English" tvg-name="DW English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="English News",DW English (1080p)
+#EXTINF:-1 tvg-id="DW.de@English" tvg-name="DW English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="English | News",DW English (1080p)
+#EXTGRP:English | News
 https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-pl-live-amgplt0343/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France24.fr@English" tvg-name="France 24 English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="English News",France 24 English (1080p)
+#EXTINF:-1 tvg-id="France24.fr@English" tvg-name="France 24 English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="English | News",France 24 English (1080p)
+#EXTGRP:English | News
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-name="Euronews English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="English News",Euronews English (720p)
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-name="Euronews English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="English | News",Euronews English (720p)
+#EXTGRP:English | News
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRTWorld.tr@SD" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="English News",TRT World (720p)
+#EXTINF:-1 tvg-id="TRTWorld.tr@SD" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="English | News",TRT World (720p)
+#EXTGRP:English | News
 https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
 
-#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="English News",CGTN (1080p)
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="English | News",CGTN (1080p)
+#EXTGRP:English | News
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-name="NHK World-Japan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="English News",NHK World-Japan (1080p)
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-name="NHK World-Japan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="English | News",NHK World-Japan (1080p)
+#EXTGRP:English | News
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
-#EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="English News",ABC News Live (720p)
+#EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="English | News",ABC News Live (720p)
+#EXTGRP:English | News
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
 
-#EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-name="CBS News 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="English News",CBS News 24/7 (720p)
+#EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-name="CBS News 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="English | News",CBS News 24/7 (720p)
+#EXTGRP:English | News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="English News",NBC News NOW (1080p)
+#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="English | News",NBC News NOW (1080p)
+#EXTGRP:English | News
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTV.us@Europe" tvg-name="Bloomberg TV Europe" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="English News",Bloomberg TV Europe (720p)
+#EXTINF:-1 tvg-id="BloombergTV.us@Europe" tvg-name="Bloomberg TV Europe" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="English | News",Bloomberg TV Europe (720p)
+#EXTGRP:English | News
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-name="Bloomberg TV Asia" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="English News",Bloomberg TV Asia (720p)
+#EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-name="Bloomberg TV Asia" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="English | News",Bloomberg TV Asia (720p)
+#EXTGRP:English | News
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1 tvg-id="BloombergOriginals.us@US" tvg-name="Bloomberg Originals" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="English News",Bloomberg Originals (1080p)
+#EXTINF:-1 tvg-id="BloombergOriginals.us@US" tvg-name="Bloomberg Originals" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="English | News",Bloomberg Originals (1080p)
+#EXTGRP:English | News
 https://bloomberg.com/media-manifest/streams/qt.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="English News",Bloomberg TV+ (2160p)
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="English | News",Bloomberg TV+ (2160p)
+#EXTGRP:English | News
 https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f4e5/Bloomberg_live.m3u8
 
-#EXTINF:-1 tvg-id="CNBCUK.uk@SD" tvg-name="CNBC UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="English News",CNBC UK (1080p)
+#EXTINF:-1 tvg-id="CNBCUK.uk@SD" tvg-name="CNBC UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="English | News",CNBC UK (1080p)
+#EXTGRP:English | News
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist/amg01079-nbcunationalcha-cnbcuk-samsunggb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNBCTV18.in@SD" tvg-name="CNBC TV18" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18.png" group-title="English News",CNBC TV18 (1080p)
+#EXTINF:-1 tvg-id="CNBCTV18.in@SD" tvg-name="CNBC TV18" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18.png" group-title="English | News",CNBC TV18 (1080p)
+#EXTGRP:English | News
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/master.m3u8
 
-#EXTINF:-1 tvg-id="CNBCArabiya.ae@SD" tvg-name="CNBC Arabiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png" group-title="English News",CNBC Arabiya (1080p)
+#EXTINF:-1 tvg-id="CNBCArabiya.ae@SD" tvg-name="CNBC Arabiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png" group-title="English | News",CNBC Arabiya (1080p)
+#EXTGRP:English | News
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 
-#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="English News",Reuters TV (1080p)
+#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="English | News",Reuters TV (1080p)
+#EXTGRP:English | News
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-name="CNA International" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="English News",CNA International (576p)
+#EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-name="CNA International" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="English | News",CNA International (576p)
+#EXTGRP:English | News
 https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 
-#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-name="CNA Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" group-title="English News",CNA Originals (1080p)
+#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-name="CNA Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" group-title="English | News",CNA Originals (1080p)
+#EXTGRP:English | News
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WION.in@SD" tvg-name="WION" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="English News",WION (1080p)
+#EXTINF:-1 tvg-id="WION.in@SD" tvg-name="WION" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="English | News",WION (1080p)
+#EXTGRP:English | News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-#EXTINF:-1 tvg-id="SkyNewsArabia.ae@HD" tvg-name="Sky News Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="English News",Sky News Arabia (1080p)
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae@HD" tvg-name="Sky News Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="English | News",Sky News Arabia (1080p)
+#EXTGRP:English | News
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
 # ==========================================
 # GROUP: Sports | Football
 # ==========================================
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports | Football",beIN SPORTS XTRA (1080p)
+#EXTGRP:Sports | Football
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-name="beIN SPORTS XTRA en Espanol" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports | Football",beIN SPORTS XTRA en Espanol (1080p)
+#EXTGRP:Sports | Football
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-name="FIFA+ English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports | Football",FIFA+ English (720p)
+#EXTGRP:Sports | Football
 https://ba3e2e93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CCTVStormFootball.cn@HD" tvg-name="CCTV-Storm Football" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="Sports | Football",CCTV-Storm Football (1080p)
+#EXTGRP:Sports | Football
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-id="ESPN.br@SD" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports | Football",ESPN (1080p)
+#EXTGRP:Sports | Football
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Sports | Football",ESPN 3 (1080p)
+#EXTGRP:Sports | Football
 http://181.78.197.59:8000/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Sports | Football",ESPN 4 (1080p)
+#EXTGRP:Sports | Football
 http://181.78.197.59:8000/play/a07n/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports | Football",Fox Sports 1 (720p)
+#EXTGRP:Sports | Football
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
 #EXTINF:-1 tvg-id="SetantaSports1.ru@HD" tvg-name="Setanta Sports 1 HD" tvg-logo="https://i.imgur.com/8ANUZAu.png" group-title="Sports | Football",Setanta Sports 1 HD (1080p)
+#EXTGRP:Sports | Football
 https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD" tvg-name="Setanta Sports 2 Eurasia" tvg-logo="https://i.imgur.com/ouHunnK.png" group-title="Sports | Football" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Setanta Sports 2 Eurasia (1080p)
+#EXTGRP:Sports | Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/235/index.m3u8
 
 #EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-name="Digi Sport 1 HD" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sports | Football" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Digi Sport 1 HD (576i)
+#EXTGRP:Sports | Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dokagents.site/live/digisport1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DigiSport2.ro@HD" tvg-name="Digi Sport 2 HD" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sports | Football",Digi Sport 2 HD (1080i)
+#EXTGRP:Sports | Football
 https://dokagents.site/live/digisport2/mono.m3u8
 
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD" tvg-name="Fubo Sports Network" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports | Football",Fubo Sports Network (1080p)
+#EXTGRP:Sports | Football
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 
 # ==========================================
 # GROUP: Sports | Cricket
 # ==========================================
 #EXTINF:-1 tvg-id="WillowSports.us@SD" tvg-name="Willow Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports | Cricket",Willow Sports (1080p)
+#EXTGRP:Sports | Cricket
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
 
 #EXTINF:-1 tvg-id="Willow.us@SD" tvg-name="Willow" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Sports | Cricket",Willow (720p)
+#EXTGRP:Sports | Cricket
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 
 #EXTINF:-1 tvg-id="TenCricket.in@SD" tvg-name="Ten Cricket" tvg-logo="https://i.imgur.com/K5XIFuW.png" group-title="Sports | Cricket",Ten Cricket (576p)
+#EXTGRP:Sports | Cricket
 http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-name="Sony Sports Ten 1 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="Sports | Cricket",Sony Sports Ten 1 HD (1080p)
+#EXTGRP:Sports | Cricket
 http://103.151.60.162:2122/play/a01c/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-name="Sony Sports Ten 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="Sports | Cricket",Sony Sports Ten 2 HD (1080p)
+#EXTGRP:Sports | Cricket
 http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD" tvg-name="Sony Sports Ten 3 Hindi HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Sports | Cricket",Sony Sports Ten 3 Hindi HD (1080p)
+#EXTGRP:Sports | Cricket
 http://103.151.60.162:2122/play/a01t/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-name="Sony Sports Ten 5" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports | Cricket",Sony Sports Ten 5 (1080p)
+#EXTGRP:Sports | Cricket
 http://103.151.60.162:2122/play/a028/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Sports | Cricket",Star Sports Select 1 HD (1080p)
+#EXTGRP:Sports | Cricket
 http://103.151.60.162:2122/play/a026/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Sports | Cricket",Star Sports Select 2 HD (1080p)
+#EXTGRP:Sports | Cricket
 http://103.151.60.162:2122/play/a027/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-name="Star Sports 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports | Cricket",Star Sports 2 HD (720p)
+#EXTGRP:Sports | Cricket
 http://103.151.60.162:2122/play/a00v/index.m3u8?hls
 
 # ==========================================
 # GROUP: Sports | F1 & Motorsport
 # ==========================================
 #EXTINF:-1 tvg-id="Motorvision.de@SD" tvg-name="Motorvision" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Sports | F1 & Motorsport",Motorvision (1080p)
+#EXTGRP:Sports | F1 & Motorsport
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 #EXTINF:-1 tvg-id="SkyRacing1.au@SD" tvg-name="Sky Racing 1" tvg-logo="https://i.imgur.com/Hf0EiaW.png" group-title="Sports | F1 & Motorsport",Sky Racing 1 (720p)
+#EXTGRP:Sports | F1 & Motorsport
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FloRacing.us@HD" tvg-name="FloRacing" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/floracing-white.png" group-title="Sports | F1 & Motorsport",FloRacing (1080p)
+#EXTGRP:Sports | F1 & Motorsport
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="F1Channel.ie@US" tvg-name="F1 Channel" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="Sports | F1 & Motorsport",F1 Channel (1080p)
+#EXTGRP:Sports | F1 & Motorsport
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist/amg12058-formulaone-f1channellg-us/playlist.m3u8
 
 # ==========================================
 # GROUP: Sports | UFC & Combat
 # ==========================================
 #EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-name="Bellator MMA" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Sports | UFC & Combat",Bellator MMA (720p)
+#EXTGRP:Sports | UFC & Combat
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
 #EXTINF:-1 tvg-id="FightBox.nl@HD" tvg-name="FightBox HD" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports | UFC & Combat",FightBox HD (1080p)
+#EXTGRP:Sports | UFC & Combat
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="FightBox.nl@SD" tvg-name="FightBox" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports | UFC & Combat" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",FightBox (720p)
+#EXTGRP:Sports | UFC & Combat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/fightbox.m3u8
 
 #EXTINF:-1 tvg-id="PersianaFight.fr@HD" tvg-name="Persiana Fight" group-title="Sports | UFC & Combat",Persiana Fight (1080p)
+#EXTGRP:Sports | UFC & Combat
 https://fighthls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="SwerveCombat.us@SD" tvg-name="Swerve Combat" tvg-logo="https://i.imgur.com/eFZh7aG.png" group-title="Sports | UFC & Combat",Swerve Combat (1080p)
+#EXTGRP:Sports | UFC & Combat
 https://linear-253.frequency.stream/mt/roku/253/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="WWENetwork.us@SD" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/500px-WWE_Network_logo.svg.png" group-title="Sports | UFC & Combat",WWE Network (1080p)
+#EXTGRP:Sports | UFC & Combat
 http://103.151.60.162:2122/play/a00p/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="FightNetwork.ca@SD" tvg-name="Fight Network" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Sports | UFC & Combat",Fight Network (720p)
+#EXTGRP:Sports | UFC & Combat
 https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
 
 # ==========================================
 # GROUP: Sports | Other
 # ==========================================
 #EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" tvg-name="Eurosport 4K Czechia" tvg-logo="https://i.imgur.com/0o3zjC7.png" group-title="Sports | Other" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Eurosport 4K Czechia (2160p)
+#EXTGRP:Sports | Other
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MLB.us@SD" tvg-name="MLB" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports | Other",MLB (720p)
+#EXTGRP:Sports | Other
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8

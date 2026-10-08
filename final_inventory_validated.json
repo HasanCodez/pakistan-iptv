@@ -17,7 +17,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.28,
+      "response_time": 0.34,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -40,7 +40,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.32,
+      "response_time": 1.38,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -63,7 +63,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.51,
+      "response_time": 0.41,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -86,7 +86,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.3,
+      "response_time": 1.31,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -109,7 +109,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.31,
+      "response_time": 1.4,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -132,7 +132,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.36,
+      "response_time": 1.34,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -155,7 +155,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.33,
+      "response_time": 1.28,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -178,7 +178,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.32,
+      "response_time": 0.34,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -201,7 +201,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.3,
+      "response_time": 1.42,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -224,7 +224,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.67,
+      "response_time": 0.7,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -247,7 +247,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.53,
+      "response_time": 0.74,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -270,7 +270,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.82,
+      "response_time": 1.03,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -293,7 +293,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.41,
+      "response_time": 1.4,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -316,7 +316,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.16,
+      "response_time": 0.18,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -339,7 +339,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.4,
+      "response_time": 1.33,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -362,7 +362,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.33,
+      "response_time": 1.26,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -385,7 +385,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.29,
+      "response_time": 1.32,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -408,7 +408,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.3,
+      "response_time": 1.36,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -431,7 +431,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.56,
+      "response_time": 0.72,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -477,7 +477,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.54,
+      "response_time": 0.53,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -500,7 +500,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.56,
+      "response_time": 0.54,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -523,7 +523,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.09,
+      "response_time": 0.08,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -546,7 +546,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.83,
+      "response_time": 0.87,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -569,7 +569,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.15,
+      "response_time": 0.16,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -617,7 +617,7 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.91,
+      "response_time": 1.02,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -640,7 +640,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.19,
+      "response_time": 1.5,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -663,7 +663,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.02,
+      "response_time": 1.41,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -686,7 +686,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.55,
+      "response_time": 1.02,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -709,7 +709,7 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.59,
+      "response_time": 0.37,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -732,7 +732,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.52,
+      "response_time": 0.81,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -755,7 +755,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.48,
+      "response_time": 0.77,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -778,7 +778,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.5,
+      "response_time": 0.77,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -801,7 +801,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.55,
+      "response_time": 0.67,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -847,7 +847,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.56,
+      "response_time": 0.55,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -870,7 +870,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.6,
+      "response_time": 0.53,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -916,7 +916,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.52,
+      "response_time": 0.55,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -939,7 +939,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.5,
+      "response_time": 0.55,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -962,7 +962,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.51,
+      "response_time": 0.6,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1129,7 +1129,7 @@
     "val_status": "REGIONAL (IR Domestic CDN)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "Al Jazeera English (1080p)",
     "clean_name": "Al Jazeera English",
     "tvg_id": "AlJazeera.qa@English",
@@ -1146,13 +1146,13 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.37,
+      "response_time": 0.32,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "BBC News North America (1080p)",
     "clean_name": "BBC News North America",
     "tvg_id": "BBCNews.uk@NorthAmerica",
@@ -1169,13 +1169,13 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.46,
+      "response_time": 0.47,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "BBC News South Asia (720p)",
     "clean_name": "BBC News South Asia",
     "tvg_id": "BBCNews.uk@SouthAsia",
@@ -1192,13 +1192,13 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.93,
+      "response_time": 0.79,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "DW English (1080p)",
     "clean_name": "DW English",
     "tvg_id": "DW.de@English",
@@ -1221,7 +1221,7 @@
     "val_status": "GEO-RESTRICTED (Regional FAST Feed)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "France 24 English (1080p)",
     "clean_name": "France 24 English",
     "tvg_id": "France24.fr@English",
@@ -1238,13 +1238,13 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.63,
+      "response_time": 0.51,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "Euronews English (720p)",
     "clean_name": "Euronews English",
     "tvg_id": "EuronewsEnglish.fr@SD",
@@ -1261,13 +1261,13 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.51,
+      "response_time": 0.52,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "TRT World (720p)",
     "clean_name": "TRT World",
     "tvg_id": "TRTWorld.tr@SD",
@@ -1284,13 +1284,13 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.88,
+      "response_time": 0.69,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "CGTN (1080p)",
     "clean_name": "CGTN",
     "tvg_id": "CGTN.cn@SD",
@@ -1313,7 +1313,7 @@
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "NHK World-Japan (1080p)",
     "clean_name": "NHK World-Japan",
     "tvg_id": "NHKWorldJapan.jp@SD",
@@ -1330,13 +1330,13 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.62,
+      "response_time": 1.21,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "ABC News Live (720p)",
     "clean_name": "ABC News Live",
     "tvg_id": "ABCNewsLive.us@SD",
@@ -1353,13 +1353,13 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.56,
+      "response_time": 0.46,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "CBS News 24/7 (720p)",
     "clean_name": "CBS News 24/7",
     "tvg_id": "CBSNews247.us@SD",
@@ -1376,13 +1376,13 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.51,
+      "response_time": 0.78,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "NBC News NOW (1080p)",
     "clean_name": "NBC News NOW",
     "tvg_id": "NBCNewsNOW.us@SD",
@@ -1399,13 +1399,13 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.81,
+      "response_time": 1.04,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "Bloomberg TV Europe (720p)",
     "clean_name": "Bloomberg TV Europe",
     "tvg_id": "BloombergTV.us@Europe",
@@ -1422,13 +1422,13 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl; charset=utf-8",
       "is_m3u8": true,
-      "response_time": 1.03,
+      "response_time": 1.31,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "Bloomberg TV Asia (720p)",
     "clean_name": "Bloomberg TV Asia",
     "tvg_id": "BloombergTV.us@Asia",
@@ -1445,13 +1445,13 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl; charset=utf-8",
       "is_m3u8": true,
-      "response_time": 1.3,
+      "response_time": 0.98,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "Bloomberg Originals (1080p)",
     "clean_name": "Bloomberg Originals",
     "tvg_id": "BloombergOriginals.us@US",
@@ -1468,13 +1468,13 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl; charset=utf-8",
       "is_m3u8": true,
-      "response_time": 0.95,
+      "response_time": 1.29,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "Bloomberg TV+ (2160p)",
     "clean_name": "Bloomberg TV+",
     "tvg_id": "BloombergTV.us@Plus",
@@ -1497,7 +1497,7 @@
     "val_status": "GEO-RESTRICTED (Regional FAST Feed)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "CNBC UK (1080p)",
     "clean_name": "CNBC UK",
     "tvg_id": "CNBCUK.uk@SD",
@@ -1514,13 +1514,13 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.55,
+      "response_time": 0.88,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "CNBC TV18 (1080p)",
     "clean_name": "CNBC TV18",
     "tvg_id": "CNBCTV18.in@SD",
@@ -1537,13 +1537,13 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.39,
+      "response_time": 0.73,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "CNBC Arabiya (1080p)",
     "clean_name": "CNBC Arabiya",
     "tvg_id": "CNBCArabiya.ae@SD",
@@ -1560,13 +1560,13 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.51,
+      "response_time": 0.72,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "Reuters TV (1080p)",
     "clean_name": "Reuters TV",
     "tvg_id": "ReutersTV.us@SD",
@@ -1589,7 +1589,7 @@
     "val_status": "GEO-RESTRICTED (Regional FAST Feed)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "CNA International (576p)",
     "clean_name": "CNA International",
     "tvg_id": "CNAInternational.sg@SD",
@@ -1606,13 +1606,13 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.9,
+      "response_time": 0.96,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "CNA Originals (1080p)",
     "clean_name": "CNA Originals",
     "tvg_id": "CNAOriginals.sg@SD",
@@ -1629,13 +1629,13 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.66,
+      "response_time": 0.55,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "WION (1080p)",
     "clean_name": "WION",
     "tvg_id": "WION.in@SD",
@@ -1652,13 +1652,13 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.53,
+      "response_time": 0.44,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
-    "group": "English News",
+    "group": "English | News",
     "name": "Sky News Arabia (1080p)",
     "clean_name": "Sky News Arabia",
     "tvg_id": "SkyNewsArabia.ae@HD",
@@ -1675,7 +1675,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.4,
+      "response_time": 0.41,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1698,7 +1698,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.9,
+      "response_time": 0.89,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1721,7 +1721,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.48,
+      "response_time": 0.42,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1744,7 +1744,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.97,
+      "response_time": 0.93,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1767,7 +1767,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 2.32,
+      "response_time": 9.46,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1790,7 +1790,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.73,
+      "response_time": 0.75,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1813,7 +1813,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.69,
+      "response_time": 0.75,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1859,7 +1859,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.33,
+      "response_time": 0.31,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1882,7 +1882,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.82,
+      "response_time": 0.87,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1907,7 +1907,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.43,
+      "response_time": 0.46,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1932,7 +1932,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.72,
+      "response_time": 0.71,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1955,7 +1955,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.73,
+      "response_time": 0.65,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1978,7 +1978,7 @@
       "http_code": 200,
       "content_type": "application/x-mpegurl",
       "is_m3u8": true,
-      "response_time": 0.5,
+      "response_time": 0.53,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2001,7 +2001,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.46,
+      "response_time": 0.5,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2024,7 +2024,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.5,
+      "response_time": 0.57,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2047,7 +2047,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.27,
+      "response_time": 0.3,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2070,7 +2070,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.28,
+      "response_time": 0.31,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2093,7 +2093,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.3,
+      "response_time": 0.29,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2116,7 +2116,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.27,
+      "response_time": 0.32,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2139,7 +2139,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.27,
+      "response_time": 0.29,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2162,7 +2162,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.28,
+      "response_time": 0.31,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2185,7 +2185,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.32,
+      "response_time": 0.26,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2231,7 +2231,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.53,
+      "response_time": 0.55,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2254,7 +2254,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.68,
+      "response_time": 0.7,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2277,7 +2277,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.26,
+      "response_time": 0.42,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2323,7 +2323,7 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 1.64,
+      "response_time": 1.28,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2346,7 +2346,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.71,
+      "response_time": 0.75,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2371,7 +2371,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.65,
+      "response_time": 0.66,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2394,7 +2394,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.54,
+      "response_time": 0.57,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2440,7 +2440,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.27,
+      "response_time": 0.32,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2463,7 +2463,7 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 1.22,
+      "response_time": 0.71,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2488,7 +2488,7 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.41,
+      "response_time": 0.37,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2511,7 +2511,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.57,
+      "response_time": 0.42,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"

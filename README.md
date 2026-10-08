@@ -33,7 +33,7 @@ The playlist is organized into four main sections and 14 organized groups:
 - **Iran | Sports**: IRIB 3, Varzesh TV.
 
 ### 3. Major English-Language News (24 Channels)
-- **English News**: Al Jazeera English (1080p), BBC News North America (1080p), BBC News South Asia (720p), DW English (1080p), France 24 English (1080p), Euronews English (720p), TRT World (720p), CGTN (1080p), NHK World-Japan (1080p), ABC News Live (720p), CBS News 24/7 (720p), NBC News NOW (1080p), Bloomberg TV Europe (720p), Bloomberg TV Asia (720p), Bloomberg Originals (1080p), Bloomberg TV+ (4K / 2160p), CNBC UK (1080p), CNBC TV18 (1080p), CNBC Arabiya (1080p), Reuters TV (1080p), CNA International (576p), CNA Originals (1080p), WION (1080p), Sky News Extra (1080p).
+- **English | News**: Al Jazeera English (1080p), BBC News North America (1080p), BBC News South Asia (720p), DW English (1080p), France 24 English (1080p), Euronews English (720p), TRT World (720p), CGTN (1080p), NHK World-Japan (1080p), ABC News Live (720p), CBS News 24/7 (720p), NBC News NOW (1080p), Bloomberg TV Europe (720p), Bloomberg TV Asia (720p), Bloomberg Originals (1080p), Bloomberg TV+ (4K / 2160p), CNBC UK (1080p), CNBC TV18 (1080p), CNBC Arabiya (1080p), Reuters TV (1080p), CNA International (576p), CNA Originals (1080p), WION (1080p), Sky News Extra (1080p).
 
 ### 4. Sports (39 Channels)
 - **Sports | Cricket (11 channels)**: Willow Sports (1080p), Willow (720p), Cricket Gold (1080p), Ten Cricket (576p), Sony Sports Ten 1 HD (1080p), Sony Sports Ten 2 HD (1080p), Sony Sports Ten 3 Hindi HD (1080p), Sony Sports Ten 5 (1080p), Star Sports Select 1 HD (1080p), Star Sports Select 2 HD (1080p), Star Sports 2 HD (720p).
