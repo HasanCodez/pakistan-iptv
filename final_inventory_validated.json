@@ -17,7 +17,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.3,
+      "response_time": 0.28,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -40,7 +40,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.26,
+      "response_time": 1.32,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -63,7 +63,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.37,
+      "response_time": 0.51,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -86,7 +86,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.32,
+      "response_time": 1.3,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -132,7 +132,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.32,
+      "response_time": 1.36,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -155,7 +155,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.28,
+      "response_time": 1.33,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -178,7 +178,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.26,
+      "response_time": 0.32,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -201,7 +201,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.36,
+      "response_time": 1.3,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -224,7 +224,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.71,
+      "response_time": 0.67,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -247,7 +247,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.55,
+      "response_time": 0.53,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -270,7 +270,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.88,
+      "response_time": 0.82,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -293,7 +293,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.39,
+      "response_time": 1.41,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -316,7 +316,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.19,
+      "response_time": 0.16,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -339,7 +339,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.89,
+      "response_time": 1.4,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -362,7 +362,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.44,
+      "response_time": 1.33,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -385,7 +385,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.3,
+      "response_time": 1.29,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -408,7 +408,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.27,
+      "response_time": 1.3,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -454,33 +454,33 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.34,
+      "response_time": 1.28,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
   },
   {
     "group": "Pakistan | Entertainment",
-    "name": "Jalwa TV (SD)",
-    "clean_name": "Jalwa TV",
-    "tvg_id": "JalwaTV.pk@SD",
-    "tvg_name": "Jalwa TV",
-    "tvg_logo": "https://i.imgur.com/HWb5Iat.png",
-    "url": "https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/playlist.m3u8",
+    "name": "JooMusic (720p)",
+    "clean_name": "JooMusic",
+    "tvg_id": "JooMusic.pk@SD",
+    "tvg_name": "JooMusic",
+    "tvg_logo": "https://i.imgur.com/KHuKQQL.png",
+    "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
     "country": "PK",
-    "resolution": "SD",
-    "notes": "Music & Youth Channel",
+    "resolution": "720p",
+    "notes": "Pakistani Music & Pop Culture Channel",
     "source": "iptv-org official streams",
     "headers": [],
     "val_detail": {
-      "status": "HTTP_ERROR",
-      "http_code": 404,
-      "content_type": "",
-      "is_m3u8": false,
-      "response_time": 0,
-      "error": "HTTP 404: Not Found"
+      "status": "ONLINE",
+      "http_code": 200,
+      "content_type": "application/vnd.apple.mpegurl",
+      "is_m3u8": true,
+      "response_time": 0.54,
+      "error": null
     },
-    "val_status": "HTTP_ERROR (404)"
+    "val_status": "ONLINE (HTTP 200)"
   },
   {
     "group": "Pakistan | General",
@@ -500,7 +500,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.53,
+      "response_time": 0.56,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -546,7 +546,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.8,
+      "response_time": 0.83,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -569,7 +569,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.2,
+      "response_time": 0.15,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -592,7 +592,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.47,
+      "response_time": 0.49,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -617,7 +617,7 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.89,
+      "response_time": 0.91,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -640,7 +640,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.39,
+      "response_time": 1.19,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -663,7 +663,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 2.03,
+      "response_time": 1.02,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -686,7 +686,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.76,
+      "response_time": 1.55,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -709,7 +709,7 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 1.05,
+      "response_time": 0.59,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -732,7 +732,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.51,
+      "response_time": 1.52,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -755,7 +755,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.72,
+      "response_time": 1.48,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -778,7 +778,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.75,
+      "response_time": 1.5,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -801,7 +801,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.69,
+      "response_time": 1.55,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -824,7 +824,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.55,
+      "response_time": 0.52,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -847,7 +847,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.6,
+      "response_time": 0.56,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -870,7 +870,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.57,
+      "response_time": 0.6,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -893,7 +893,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.53,
+      "response_time": 0.56,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -916,7 +916,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.56,
+      "response_time": 0.52,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -939,7 +939,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.57,
+      "response_time": 0.5,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -962,7 +962,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.56,
+      "response_time": 0.51,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1146,7 +1146,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.52,
+      "response_time": 0.37,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1169,7 +1169,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.45,
+      "response_time": 0.46,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1192,7 +1192,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.69,
+      "response_time": 0.93,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1238,7 +1238,7 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.45,
+      "response_time": 0.63,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1261,7 +1261,7 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.47,
+      "response_time": 0.51,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1284,7 +1284,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.69,
+      "response_time": 0.88,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1307,7 +1307,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.73,
+      "response_time": 0.68,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1330,7 +1330,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.11,
+      "response_time": 0.62,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1339,24 +1339,24 @@
     "group": "English News",
     "name": "ABC News Live (720p)",
     "clean_name": "ABC News Live",
-    "tvg_id": "ABCNewsLive3.us@SD",
+    "tvg_id": "ABCNewsLive.us@SD",
     "tvg_name": "ABC News Live",
     "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
-    "url": "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/index.m3u8",
+    "url": "https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8",
     "country": "US",
     "resolution": "720p",
     "notes": "American ABC News Live Network",
     "source": "iptv-org official streams",
     "headers": [],
     "val_detail": {
-      "status": "HTTP_ERROR",
-      "http_code": 404,
-      "content_type": "",
-      "is_m3u8": false,
-      "response_time": 0,
-      "error": "HTTP 404: Not Found"
+      "status": "ONLINE",
+      "http_code": 200,
+      "content_type": "application/x-mpegURL",
+      "is_m3u8": true,
+      "response_time": 0.56,
+      "error": null
     },
-    "val_status": "ONLINE (HTTP 404)"
+    "val_status": "ONLINE (HTTP 200)"
   },
   {
     "group": "English News",
@@ -1376,7 +1376,7 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.79,
+      "response_time": 0.51,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1388,21 +1388,21 @@
     "tvg_id": "NBCNewsNOW.us@SD",
     "tvg_name": "NBC News NOW",
     "tvg_logo": "https://i.imgur.com/JZt2qh5.png",
-    "url": "https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?app_bundle=com.nbcnews.now",
+    "url": "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8",
     "country": "US",
     "resolution": "1080p",
     "notes": "NBC News Global Streaming",
     "source": "iptv-org official streams",
     "headers": [],
     "val_detail": {
-      "status": "HTTP_ERROR",
-      "http_code": 400,
-      "content_type": "",
-      "is_m3u8": false,
-      "response_time": 0,
-      "error": "HTTP 400: Bad Request"
+      "status": "ONLINE",
+      "http_code": 200,
+      "content_type": "application/vnd.apple.mpegurl",
+      "is_m3u8": true,
+      "response_time": 0.81,
+      "error": null
     },
-    "val_status": "HTTP_ERROR (400)"
+    "val_status": "ONLINE (HTTP 200)"
   },
   {
     "group": "English News",
@@ -1422,7 +1422,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl; charset=utf-8",
       "is_m3u8": true,
-      "response_time": 1.42,
+      "response_time": 1.03,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1445,7 +1445,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl; charset=utf-8",
       "is_m3u8": true,
-      "response_time": 0.95,
+      "response_time": 1.3,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1468,7 +1468,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl; charset=utf-8",
       "is_m3u8": true,
-      "response_time": 1.22,
+      "response_time": 0.95,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1514,7 +1514,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.57,
+      "response_time": 0.55,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1537,7 +1537,7 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.65,
+      "response_time": 0.39,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1560,7 +1560,7 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.53,
+      "response_time": 0.51,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1606,7 +1606,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.71,
+      "response_time": 0.9,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1629,7 +1629,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.65,
+      "response_time": 0.66,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1641,44 +1641,44 @@
     "tvg_id": "WION.in@SD",
     "tvg_name": "WION",
     "tvg_logo": "https://i.imgur.com/Wc5Z3iS.png",
-    "url": "http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/6/index.m3u8",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
     "country": "IN",
     "resolution": "1080p",
-    "notes": "World Is One News International",
+    "notes": "World Is One News International 1080p",
     "source": "iptv-org official streams",
     "headers": [],
     "val_detail": {
-      "status": "HTTP_ERROR",
-      "http_code": 404,
-      "content_type": "",
-      "is_m3u8": false,
-      "response_time": 0,
-      "error": "HTTP 404: Not Found"
+      "status": "ONLINE",
+      "http_code": 200,
+      "content_type": "application/x-mpegURL",
+      "is_m3u8": true,
+      "response_time": 0.53,
+      "error": null
     },
-    "val_status": "ONLINE (HTTP 404)"
+    "val_status": "ONLINE (HTTP 200)"
   },
   {
     "group": "English News",
-    "name": "Sky News Extra (1080p)",
-    "clean_name": "Sky News Extra",
-    "tvg_id": "SkyNewsExtra3.au@SD",
-    "tvg_name": "Sky News Extra",
-    "tvg_logo": "https://i.imgur.com/ZsPb8nL.png",
-    "url": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/index.m3u8",
-    "country": "AU",
+    "name": "Sky News Arabia (1080p)",
+    "clean_name": "Sky News Arabia",
+    "tvg_id": "SkyNewsArabia.ae@HD",
+    "tvg_name": "Sky News Arabia",
+    "tvg_logo": "https://i.imgur.com/SvjU4h6.png",
+    "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+    "country": "AE",
     "resolution": "1080p",
-    "notes": "Sky News International HD Feed",
+    "notes": "Sky News International Network",
     "source": "iptv-org official streams",
     "headers": [],
     "val_detail": {
-      "status": "HTTP_ERROR",
-      "http_code": 404,
-      "content_type": "",
-      "is_m3u8": false,
-      "response_time": 0,
-      "error": "HTTP 404: Not Found"
+      "status": "ONLINE",
+      "http_code": 200,
+      "content_type": "application/vnd.apple.mpegurl",
+      "is_m3u8": true,
+      "response_time": 0.4,
+      "error": null
     },
-    "val_status": "ONLINE (HTTP 404)"
+    "val_status": "ONLINE (HTTP 200)"
   },
   {
     "group": "Sports | Football",
@@ -1698,7 +1698,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.52,
+      "response_time": 0.9,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1721,7 +1721,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.5,
+      "response_time": 0.48,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1744,7 +1744,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 1.01,
+      "response_time": 0.97,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1767,7 +1767,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 3.25,
+      "response_time": 2.32,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1790,7 +1790,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.72,
+      "response_time": 0.73,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1813,7 +1813,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.72,
+      "response_time": 0.69,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1859,7 +1859,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.32,
+      "response_time": 0.33,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1882,7 +1882,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.85,
+      "response_time": 0.82,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1907,33 +1907,10 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.47,
+      "response_time": 0.43,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
-  },
-  {
-    "group": "Sports | Football",
-    "name": "Canal+ Sport 2 SK (1080p)",
-    "clean_name": "Canal+ Sport 2 SK",
-    "tvg_id": "CanalPlusSport2SK.sk@SD",
-    "tvg_name": "Canal+ Sport 2 SK",
-    "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/a/ab/CANAL%2B_SPORT_2.svg/revision/latest?cb=20241028202739",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport-2/playlist.m3u8",
-    "country": "SK",
-    "resolution": "1080p",
-    "notes": "Premier League Live Broadcaster Slovakia",
-    "source": "iptv-org official streams",
-    "headers": [],
-    "val_detail": {
-      "status": "HTTP_ERROR",
-      "http_code": 400,
-      "content_type": "",
-      "is_m3u8": false,
-      "response_time": 0,
-      "error": "HTTP 400: Bad Request"
-    },
-    "val_status": "HTTP_ERROR (400)"
   },
   {
     "group": "Sports | Football",
@@ -1955,7 +1932,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.75,
+      "response_time": 0.72,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -1978,7 +1955,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.78,
+      "response_time": 0.73,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2001,7 +1978,7 @@
       "http_code": 200,
       "content_type": "application/x-mpegurl",
       "is_m3u8": true,
-      "response_time": 0.66,
+      "response_time": 0.5,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2024,7 +2001,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.43,
+      "response_time": 0.46,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2047,33 +2024,10 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.58,
+      "response_time": 0.5,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
-  },
-  {
-    "group": "Sports | Cricket",
-    "name": "Cricket Gold (1080p)",
-    "clean_name": "Cricket Gold",
-    "tvg_id": "CricketGold.au@SD",
-    "tvg_name": "Cricket Gold",
-    "tvg_logo": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png",
-    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master.m3u8",
-    "country": "AU",
-    "resolution": "1080p",
-    "notes": "Classic International & Historic Cricket Matches",
-    "source": "iptv-org official streams",
-    "headers": [],
-    "val_detail": {
-      "status": "HTTP_ERROR",
-      "http_code": 404,
-      "content_type": "",
-      "is_m3u8": false,
-      "response_time": 0,
-      "error": "HTTP 404: Not Found"
-    },
-    "val_status": "HTTP_ERROR (404)"
   },
   {
     "group": "Sports | Cricket",
@@ -2093,7 +2047,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.28,
+      "response_time": 0.27,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2116,7 +2070,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.3,
+      "response_time": 0.28,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2139,7 +2093,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.28,
+      "response_time": 0.3,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2208,7 +2162,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.31,
+      "response_time": 0.28,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2231,7 +2185,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.3,
+      "response_time": 0.32,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2254,7 +2208,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.26,
+      "response_time": 0.27,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2277,7 +2231,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.49,
+      "response_time": 0.53,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2323,7 +2277,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.68,
+      "response_time": 0.26,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2369,7 +2323,7 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 1.01,
+      "response_time": 1.64,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2392,7 +2346,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.74,
+      "response_time": 0.71,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2417,7 +2371,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.66,
+      "response_time": 0.65,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2440,7 +2394,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.56,
+      "response_time": 0.54,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2486,7 +2440,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegURL",
       "is_m3u8": true,
-      "response_time": 0.28,
+      "response_time": 0.27,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2509,7 +2463,7 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 1.33,
+      "response_time": 1.22,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
@@ -2534,33 +2488,10 @@
       "http_code": 200,
       "content_type": "application/x-mpegURL",
       "is_m3u8": true,
-      "response_time": 0.39,
+      "response_time": 0.41,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
-  },
-  {
-    "group": "Sports | Other",
-    "name": "NBC Sports NOW (1080p)",
-    "clean_name": "NBC Sports NOW",
-    "tvg_id": "NBCSportsNOW.us@SD",
-    "tvg_name": "NBC Sports NOW",
-    "tvg_logo": "https://i.imgur.com/EzNf2Yx.png",
-    "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?app_bundle=com.nbcnews.now",
-    "country": "US",
-    "resolution": "1080p",
-    "notes": "NBC Sports News, Live Highlights & Analysis",
-    "source": "iptv-org official streams",
-    "headers": [],
-    "val_detail": {
-      "status": "HTTP_ERROR",
-      "http_code": 400,
-      "content_type": "",
-      "is_m3u8": false,
-      "response_time": 0,
-      "error": "HTTP 400: Bad Request"
-    },
-    "val_status": "HTTP_ERROR (400)"
   },
   {
     "group": "Sports | Other",
@@ -2580,7 +2511,7 @@
       "http_code": 200,
       "content_type": "application/vnd.apple.mpegurl",
       "is_m3u8": true,
-      "response_time": 0.51,
+      "response_time": 0.57,
       "error": null
     },
     "val_status": "ONLINE (HTTP 200)"
