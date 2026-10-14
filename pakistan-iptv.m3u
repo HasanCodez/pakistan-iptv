@@ -228,6 +228,10 @@ https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 #EXTGRP:Islamic | Shia
 https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
 
+#EXTINF:-1 tvg-id="HyderTV.ca" tvg-name="Hyder TV" tvg-logo="https://i.imgur.com/8Qj8m0k.png" group-title="Islamic | Shia",Hyder TV (720p)
+#EXTGRP:Islamic | Shia
+https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Alquran.iq@SD" tvg-name="Karbala TV" tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Islamic | Shia",Karbala TV (1080p)
 #EXTGRP:Islamic | Shia
 https://ktvlive.online/stream/hls/ch1.m3u8

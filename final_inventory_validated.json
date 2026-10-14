@@ -1140,6 +1140,16 @@
   },
   {
     "group": "Islamic | Shia",
+    "name": "Hyder TV (720p)",
+    "clean_name": "Hyder TV",
+    "tvg_id": "HyderTV.ca",
+    "tvg_name": "Hyder TV",
+    "tvg_logo": "https://i.imgur.com/8Qj8m0k.png",
+    "url": "https://cdn.live247stream.com/hyder/tv/playlist.m3u8",
+    "headers": []
+  },
+  {
+    "group": "Islamic | Shia",
     "name": "Karbala TV (1080p)",
     "clean_name": "Karbala TV",
     "tvg_id": "Alquran.iq@SD",
