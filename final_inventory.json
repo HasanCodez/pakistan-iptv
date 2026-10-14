@@ -1400,6 +1400,16 @@
     "headers": []
   },
   {
+    "group": "Sports | Cricket",
+    "name": "Star Sports 2 Telugu HD (576p)",
+    "clean_name": "Star Sports 2 Telugu HD",
+    "tvg_id": "StarSports2Telugu.in@HD",
+    "tvg_name": "Star Sports 2 Telugu HD",
+    "tvg_logo": "https://i.imgur.com/m7DvvqF.png",
+    "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
+    "headers": []
+  },
+  {
     "group": "Sports | F1 & Motorsport",
     "name": "Motorvision (1080p)",
     "clean_name": "Motorvision",
@@ -1721,6 +1731,16 @@
     "tvg_name": "Right Now TV",
     "tvg_logo": "https://i.imgur.com/xO4384o.png",
     "url": "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
+    "headers": []
+  },
+  {
+    "group": "Sports | Other",
+    "name": "Trace Sport Stars HD (1080p)",
+    "clean_name": "Trace Sport Stars",
+    "tvg_id": "TraceSportStars.fr@HD",
+    "tvg_name": "Trace Sport Stars",
+    "tvg_logo": "https://i.imgur.com/8Qj8m0k.png",
+    "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
     "headers": []
   }
 ]

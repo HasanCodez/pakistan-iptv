@@ -440,6 +440,10 @@ http://103.151.60.162:2122/play/a00v/index.m3u8?hls
 #EXTGRP:Sports | Cricket
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
 
+#EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-name="Star Sports 2 Telugu HD" tvg-logo="https://i.imgur.com/m7DvvqF.png" group-title="Sports | Cricket",Star Sports 2 Telugu HD (576p)
+#EXTGRP:Sports | Cricket
+https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
+
 # ==========================================
 # GROUP: Sports | F1 & Motorsport
 # ==========================================
@@ -557,3 +561,7 @@ https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="RightNowTV.us" tvg-name="Right Now TV" tvg-logo="https://i.imgur.com/xO4384o.png" group-title="Sports | Other",Right Now TV (720p)
 #EXTGRP:Sports | Other
 https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceSportStars.fr@HD" tvg-name="Trace Sport Stars" tvg-logo="https://i.imgur.com/8Qj8m0k.png" group-title="Sports | Other",Trace Sport Stars HD (1080p)
+#EXTGRP:Sports | Other
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
