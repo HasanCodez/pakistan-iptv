@@ -13,7 +13,7 @@
     "http_code": 200,
     "content_type": "application/x-mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.54,
+    "response_time": 0.7,
     "error": null
   },
   {
@@ -30,7 +30,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.78,
+    "response_time": 0.8,
     "error": null
   },
   {
@@ -43,12 +43,12 @@
     "name": "BBC News North America (1080p)",
     "extgrp": "English | News",
     "url": "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8",
-    "status": "ONLINE",
-    "http_code": 200,
-    "content_type": "application/vnd.apple.mpegurl",
-    "is_valid_stream": true,
-    "response_time": 0.47,
-    "error": null
+    "status": "OFFLINE",
+    "http_code": 0,
+    "content_type": "",
+    "is_valid_stream": false,
+    "response_time": 10.01,
+    "error": "timed out"
   },
   {
     "raw_extinf": "#EXTINF:-1 tvg-id=\"BBCNews.uk@SouthAsia\" tvg-name=\"BBC News South Asia\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png\" group-title=\"English | News\",BBC News South Asia (720p)",
@@ -64,7 +64,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 1.22,
+    "response_time": 0.94,
     "error": null
   },
   {
@@ -81,7 +81,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl; charset=utf-8",
     "is_valid_stream": true,
-    "response_time": 1.61,
+    "response_time": 1.77,
     "error": null
   },
   {
@@ -98,7 +98,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl; charset=utf-8",
     "is_valid_stream": true,
-    "response_time": 1.67,
+    "response_time": 2.05,
     "error": null
   },
   {
@@ -115,7 +115,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl; charset=utf-8",
     "is_valid_stream": true,
-    "response_time": 1.59,
+    "response_time": 1.84,
     "error": null
   },
   {
@@ -132,7 +132,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl; charset=utf-8",
     "is_valid_stream": true,
-    "response_time": 1.5,
+    "response_time": 1.6,
     "error": null
   },
   {
@@ -145,12 +145,12 @@
     "name": "CBS News 24/7 (720p)",
     "extgrp": "English | News",
     "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
-    "status": "ONLINE",
-    "http_code": 200,
-    "content_type": "application/x-mpegURL",
-    "is_valid_stream": true,
-    "response_time": 1.18,
-    "error": null
+    "status": "OFFLINE",
+    "http_code": 0,
+    "content_type": "",
+    "is_valid_stream": false,
+    "response_time": 1.6,
+    "error": "[Errno 11002] getaddrinfo failed"
   },
   {
     "raw_extinf": "#EXTINF:-1 tvg-id=\"CGTN.cn@SD\" tvg-name=\"CGTN\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png\" group-title=\"English | News\",CGTN (1080p)",
@@ -166,7 +166,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.59,
+    "response_time": 0.66,
     "error": null
   },
   {
@@ -183,7 +183,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 1.18,
+    "response_time": 1.25,
     "error": null
   },
   {
@@ -200,7 +200,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.45,
+    "response_time": 0.56,
     "error": null
   },
   {
@@ -217,7 +217,7 @@
     "http_code": 200,
     "content_type": "application/x-mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.69,
+    "response_time": 0.83,
     "error": null
   },
   {
@@ -234,7 +234,7 @@
     "http_code": 200,
     "content_type": "application/x-mpegURL",
     "is_valid_stream": true,
-    "response_time": 1.19,
+    "response_time": 1.31,
     "error": null
   },
   {
@@ -251,7 +251,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 1.66,
+    "response_time": 1.04,
     "error": null
   },
   {
@@ -268,7 +268,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.77,
+    "response_time": 0.64,
     "error": null
   },
   {
@@ -285,7 +285,7 @@
     "http_code": 200,
     "content_type": "application/x-mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.63,
+    "response_time": 0.59,
     "error": null
   },
   {
@@ -302,7 +302,7 @@
     "http_code": 200,
     "content_type": "application/x-mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.66,
+    "response_time": 1.28,
     "error": null
   },
   {
@@ -319,7 +319,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.97,
+    "response_time": 0.99,
     "error": null
   },
   {
@@ -336,7 +336,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 1.2,
+    "response_time": 0.7,
     "error": null
   },
   {
@@ -353,7 +353,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.48,
+    "response_time": 0.79,
     "error": null
   },
   {
@@ -370,7 +370,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.8,
+    "response_time": 0.62,
     "error": null
   },
   {
@@ -404,7 +404,7 @@
     "http_code": 200,
     "content_type": "application/x-mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.55,
+    "response_time": 0.46,
     "error": null
   },
   {
@@ -421,7 +421,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.49,
+    "response_time": 0.63,
     "error": null
   },
   {
@@ -438,7 +438,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.51,
+    "response_time": 1.14,
     "error": null
   },
   {
@@ -455,7 +455,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.64,
+    "response_time": 0.62,
     "error": null
   },
   {
@@ -472,7 +472,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.61,
+    "response_time": 0.76,
     "error": null
   },
   {
@@ -489,7 +489,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.47,
+    "response_time": 1.22,
     "error": null
   },
   {
@@ -506,7 +506,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.45,
+    "response_time": 1.23,
     "error": null
   },
   {
@@ -523,7 +523,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.45,
+    "response_time": 0.71,
     "error": null
   },
   {
@@ -540,7 +540,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 1.01,
+    "response_time": 2.29,
     "error": null
   },
   {
@@ -557,7 +557,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 1.01,
+    "response_time": 2.31,
     "error": null
   },
   {
@@ -574,7 +574,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 1.05,
+    "response_time": 2.34,
     "error": null
   },
   {
@@ -591,7 +591,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 1.02,
+    "response_time": 2.32,
     "error": null
   },
   {
@@ -608,7 +608,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 2.72,
+    "response_time": 3.72,
     "error": null
   },
   {
@@ -625,7 +625,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 2.74,
+    "response_time": 3.43,
     "error": null
   },
   {
@@ -642,7 +642,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 2.62,
+    "response_time": 3.43,
     "error": null
   },
   {
@@ -659,7 +659,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 2.61,
+    "response_time": 3.41,
     "error": null
   },
   {
@@ -676,7 +676,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 2.56,
+    "response_time": 3.42,
     "error": null
   },
   {
@@ -693,7 +693,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 2.24,
+    "response_time": 2.06,
     "error": null
   },
   {
@@ -710,7 +710,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.3,
+    "response_time": 0.35,
     "error": null
   },
   {
@@ -727,7 +727,7 @@
     "http_code": 200,
     "content_type": "application/x-mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.45,
+    "response_time": 0.85,
     "error": null
   },
   {
@@ -744,7 +744,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 1.18,
+    "response_time": 2.1,
     "error": null
   },
   {
@@ -761,7 +761,7 @@
     "http_code": 200,
     "content_type": "application/x-mpegURL",
     "is_valid_stream": true,
-    "response_time": 1.02,
+    "response_time": 1.1,
     "error": null
   },
   {
@@ -778,7 +778,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 1.42,
+    "response_time": 2.71,
     "error": null
   },
   {
@@ -795,7 +795,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 2.46,
+    "response_time": 3.26,
     "error": null
   },
   {
@@ -812,7 +812,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 2.46,
+    "response_time": 2.8,
     "error": null
   },
   {
@@ -829,7 +829,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.85,
+    "response_time": 0.87,
     "error": null
   },
   {
@@ -846,7 +846,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.82,
+    "response_time": 0.85,
     "error": null
   },
   {
@@ -863,7 +863,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.86,
+    "response_time": 1.1,
     "error": null
   },
   {
@@ -880,7 +880,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 1.36,
+    "response_time": 0.39,
     "error": null
   },
   {
@@ -897,7 +897,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 1.89,
+    "response_time": 1.74,
     "error": null
   },
   {
@@ -910,12 +910,12 @@
     "name": "JooMusic (720p)",
     "extgrp": "Pakistan | Entertainment",
     "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
-    "status": "ONLINE",
-    "http_code": 200,
-    "content_type": "application/vnd.apple.mpegurl",
-    "is_valid_stream": true,
-    "response_time": 0.65,
-    "error": null
+    "status": "OFFLINE",
+    "http_code": 0,
+    "content_type": "",
+    "is_valid_stream": false,
+    "response_time": 0.02,
+    "error": "[Errno 11002] getaddrinfo failed"
   },
   {
     "raw_extinf": "#EXTINF:-1 tvg-id=\"MasalaTV.pk@SD\" tvg-name=\"Masala TV\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg\" group-title=\"Pakistan | Entertainment\",Masala TV (576p)",
@@ -931,7 +931,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.82,
+    "response_time": 0.96,
     "error": null
   },
   {
@@ -944,12 +944,12 @@
     "name": "Discover Pakistan (1080p)",
     "extgrp": "Pakistan | General",
     "url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
-    "status": "ONLINE",
-    "http_code": 200,
-    "content_type": "application/vnd.apple.mpegurl",
-    "is_valid_stream": true,
-    "response_time": 0.46,
-    "error": null
+    "status": "OFFLINE",
+    "http_code": 0,
+    "content_type": "",
+    "is_valid_stream": false,
+    "response_time": 0.0,
+    "error": "[Errno 11002] getaddrinfo failed"
   },
   {
     "raw_extinf": "#EXTINF:-1 tvg-id=\"aurLifeHD.pk@SD\" tvg-name=\"aurLife\" tvg-logo=\"https://i.imgur.com/GfWLn3O.jpg\" group-title=\"Pakistan | General\",aurLife (614p)",
@@ -965,7 +965,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.08,
+    "response_time": 0.1,
     "error": null
   },
   {
@@ -982,7 +982,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.88,
+    "response_time": 1.23,
     "error": null
   },
   {
@@ -999,7 +999,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.59,
+    "response_time": 0.89,
     "error": null
   },
   {
@@ -1012,12 +1012,12 @@
     "name": "92 News HD (720p)",
     "extgrp": "Pakistan | News",
     "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
-    "status": "HTTP_ERROR",
-    "http_code": 404,
-    "content_type": "",
-    "is_valid_stream": false,
-    "response_time": 0.31,
-    "error": "HTTP 404: Not Found"
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/vnd.apple.mpegurl",
+    "is_valid_stream": true,
+    "response_time": 1.02,
+    "error": null
   },
   {
     "raw_extinf": "#EXTINF:-1 tvg-id=\"ABNNews.pk@SD\" tvg-name=\"ABN News\" tvg-logo=\"https://i.imgur.com/R7BThkR.jpeg\" group-title=\"Pakistan | News\",ABN News (360p)",
@@ -1033,7 +1033,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.88,
+    "response_time": 1.17,
     "error": null
   },
   {
@@ -1050,7 +1050,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.39,
+    "response_time": 0.69,
     "error": null
   },
   {
@@ -1067,7 +1067,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.87,
+    "response_time": 1.14,
     "error": null
   },
   {
@@ -1084,7 +1084,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.31,
+    "response_time": 0.54,
     "error": null
   },
   {
@@ -1101,7 +1101,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.99,
+    "response_time": 1.19,
     "error": null
   },
   {
@@ -1118,7 +1118,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.31,
+    "response_time": 0.57,
     "error": null
   },
   {
@@ -1135,7 +1135,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.18,
+    "response_time": 0.39,
     "error": null
   },
   {
@@ -1152,7 +1152,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.81,
+    "response_time": 1.09,
     "error": null
   },
   {
@@ -1169,7 +1169,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.8,
+    "response_time": 1.09,
     "error": null
   },
   {
@@ -1186,7 +1186,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.87,
+    "response_time": 1.1,
     "error": null
   },
   {
@@ -1203,8 +1203,8 @@
     "http_code": 0,
     "content_type": "",
     "is_valid_stream": false,
-    "response_time": 10.0,
-    "error": "timed out"
+    "response_time": 0.27,
+    "error": "[Errno 11002] getaddrinfo failed"
   },
   {
     "raw_extinf": "#EXTINF:-1 tvg-id=\"MSports.pk@SD\" tvg-name=\"M Sports\" tvg-logo=\"https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png\" group-title=\"Pakistan | Sports\",M Sports (1080p)",
@@ -1220,7 +1220,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.18,
+    "response_time": 0.14,
     "error": null
   },
   {
@@ -1237,7 +1237,24 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.75,
+    "response_time": 0.78,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"CricketGold.au\" tvg-name=\"Cricket Gold\" tvg-logo=\"https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png\" group-title=\"Sports | Cricket\",Cricket Gold (1080p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | Cricket",
+    "tvg_id": "CricketGold.au",
+    "tvg_name": "Cricket Gold",
+    "name": "Cricket Gold (1080p)",
+    "extgrp": "Sports | Cricket",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/x-mpegURL",
+    "is_valid_stream": true,
+    "response_time": 0.98,
     "error": null
   },
   {
@@ -1254,7 +1271,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.42,
+    "response_time": 0.45,
     "error": null
   },
   {
@@ -1271,7 +1288,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.42,
+    "response_time": 0.46,
     "error": null
   },
   {
@@ -1288,7 +1305,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.42,
+    "response_time": 0.46,
     "error": null
   },
   {
@@ -1305,7 +1322,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.45,
+    "response_time": 0.46,
     "error": null
   },
   {
@@ -1322,7 +1339,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.47,
+    "response_time": 0.46,
     "error": null
   },
   {
@@ -1339,7 +1356,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.48,
+    "response_time": 0.45,
     "error": null
   },
   {
@@ -1356,7 +1373,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.51,
+    "response_time": 0.45,
     "error": null
   },
   {
@@ -1386,12 +1403,12 @@
     "name": "Willow (720p)",
     "extgrp": "Sports | Cricket",
     "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-    "status": "ONLINE",
-    "http_code": 200,
-    "content_type": "application/vnd.apple.mpegurl",
-    "is_valid_stream": true,
-    "response_time": 0.49,
-    "error": null
+    "status": "OFFLINE",
+    "http_code": 0,
+    "content_type": "",
+    "is_valid_stream": false,
+    "response_time": 0.16,
+    "error": "[Errno 11002] getaddrinfo failed"
   },
   {
     "raw_extinf": "#EXTINF:-1 tvg-id=\"WillowSports.us@SD\" tvg-name=\"Willow Sports\" tvg-logo=\"https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png\" group-title=\"Sports | Cricket\",Willow Sports (1080p)",
@@ -1407,7 +1424,24 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.47,
+    "response_time": 0.48,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"CanalMotor.no\" tvg-name=\"Canal Motor\" tvg-logo=\"https://i.imgur.com/i9109iP.png\" group-title=\"Sports | F1 & Motorsport\",Canal Motor (720p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | F1 & Motorsport",
+    "tvg_id": "CanalMotor.no",
+    "tvg_name": "Canal Motor",
+    "name": "Canal Motor (720p)",
+    "extgrp": "Sports | F1 & Motorsport",
+    "url": "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/vnd.apple.mpegurl",
+    "is_valid_stream": true,
+    "response_time": 0.86,
     "error": null
   },
   {
@@ -1424,7 +1458,7 @@
     "http_code": 403,
     "content_type": "",
     "is_valid_stream": false,
-    "response_time": 0.11,
+    "response_time": 0.34,
     "error": "HTTP 403: Forbidden"
   },
   {
@@ -1441,7 +1475,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.35,
+    "response_time": 0.5,
     "error": null
   },
   {
@@ -1458,7 +1492,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.82,
+    "response_time": 0.63,
     "error": null
   },
   {
@@ -1475,7 +1509,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.67,
+    "response_time": 0.8,
     "error": null
   },
   {
@@ -1492,7 +1526,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 1.02,
+    "response_time": 1.12,
     "error": null
   },
   {
@@ -1509,7 +1543,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.71,
+    "response_time": 0.63,
     "error": null
   },
   {
@@ -1526,7 +1560,41 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.75,
+    "response_time": 0.68,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"DigiSport3.ro\" tvg-name=\"Digi Sport 3\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/e/ee/Digi_Sport_3_logo.png\" group-title=\"Sports | Football\",Digi Sport 3 (576i)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | Football",
+    "tvg_id": "DigiSport3.ro",
+    "tvg_name": "Digi Sport 3",
+    "name": "Digi Sport 3 (576i)",
+    "extgrp": "Sports | Football",
+    "url": "https://dokagents.site/live/digisport3/mono.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/vnd.apple.mpegurl",
+    "is_valid_stream": true,
+    "response_time": 0.49,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"DigiSport4.ro\" tvg-name=\"Digi Sport 4\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/6/6f/Digi_Sport_4_logo.png\" group-title=\"Sports | Football\",Digi Sport 4 (576i)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | Football",
+    "tvg_id": "DigiSport4.ro",
+    "tvg_name": "Digi Sport 4",
+    "name": "Digi Sport 4 (576i)",
+    "extgrp": "Sports | Football",
+    "url": "https://dokagents.site/live/digisport4/mono.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/vnd.apple.mpegurl",
+    "is_valid_stream": true,
+    "response_time": 0.53,
     "error": null
   },
   {
@@ -1543,7 +1611,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.61,
+    "response_time": 0.69,
     "error": null
   },
   {
@@ -1560,7 +1628,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.62,
+    "response_time": 0.65,
     "error": null
   },
   {
@@ -1577,7 +1645,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.61,
+    "response_time": 0.69,
     "error": null
   },
   {
@@ -1594,7 +1662,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 1.26,
+    "response_time": 1.06,
     "error": null
   },
   {
@@ -1611,7 +1679,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.28,
+    "response_time": 0.29,
     "error": null
   },
   {
@@ -1628,7 +1696,24 @@
     "http_code": 200,
     "content_type": "application/x-mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.51,
+    "response_time": 0.88,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"RealMadridTV.es\" tvg-name=\"Real Madrid TV\" tvg-logo=\"https://i.imgur.com/gSZeE51.png\" group-title=\"Sports | Football\",Real Madrid TV (726p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | Football",
+    "tvg_id": "RealMadridTV.es",
+    "tvg_name": "Real Madrid TV",
+    "name": "Real Madrid TV (726p)",
+    "extgrp": "Sports | Football",
+    "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/x-mpegURL",
+    "is_valid_stream": true,
+    "response_time": 0.82,
     "error": null
   },
   {
@@ -1645,7 +1730,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.61,
+    "response_time": 0.73,
     "error": null
   },
   {
@@ -1662,7 +1747,24 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.56,
+    "response_time": 0.33,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"Sportitalia.it\" tvg-name=\"Sportitalia\" tvg-logo=\"https://i.imgur.com/MvhvFmH.png\" group-title=\"Sports | Football\",Sportitalia (1080p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | Football",
+    "tvg_id": "Sportitalia.it",
+    "tvg_name": "Sportitalia",
+    "name": "Sportitalia (1080p)",
+    "extgrp": "Sports | Football",
+    "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/vnd.apple.mpegurl",
+    "is_valid_stream": true,
+    "response_time": 0.61,
     "error": null
   },
   {
@@ -1679,7 +1781,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.95,
+    "response_time": 1.02,
     "error": null
   },
   {
@@ -1696,7 +1798,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.43,
+    "response_time": 0.54,
     "error": null
   },
   {
@@ -1713,7 +1815,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.44,
+    "response_time": 0.75,
     "error": null
   },
   {
@@ -1730,7 +1832,143 @@
     "http_code": 200,
     "content_type": "application/x-mpegURL",
     "is_valid_stream": true,
-    "response_time": 0.42,
+    "response_time": 0.59,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"RightNowTV.us\" tvg-name=\"Right Now TV\" tvg-logo=\"https://i.imgur.com/xO4384o.png\" group-title=\"Sports | Other\",Right Now TV (720p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | Other",
+    "tvg_id": "RightNowTV.us",
+    "tvg_name": "Right Now TV",
+    "name": "Right Now TV (720p)",
+    "extgrp": "Sports | Other",
+    "url": "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/x-mpegURL",
+    "is_valid_stream": true,
+    "response_time": 0.58,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"SportsGrid.us\" tvg-name=\"SportsGrid\" tvg-logo=\"https://i.imgur.com/2U54k9D.png\" group-title=\"Sports | Other\",SportsGrid (1080p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | Other",
+    "tvg_id": "SportsGrid.us",
+    "tvg_name": "SportsGrid",
+    "name": "SportsGrid (1080p)",
+    "extgrp": "Sports | Other",
+    "url": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/vnd.apple.mpegurl",
+    "is_valid_stream": true,
+    "response_time": 0.77,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"StrongmanChampionsLeague.fi\" tvg-name=\"Strongman Champions League\" tvg-logo=\"https://i.imgur.com/fM91MvM.png\" group-title=\"Sports | Other\",Strongman Champions League (720p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | Other",
+    "tvg_id": "StrongmanChampionsLeague.fi",
+    "tvg_name": "Strongman Champions League",
+    "name": "Strongman Champions League (720p)",
+    "extgrp": "Sports | Other",
+    "url": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/vnd.apple.mpegurl",
+    "is_valid_stream": true,
+    "response_time": 0.62,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"SwerveSports.us\" tvg-name=\"Swerve Sports\" tvg-logo=\"https://i.imgur.com/bQ92w5P.png\" group-title=\"Sports | Other\",Swerve Sports (720p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | Other",
+    "tvg_id": "SwerveSports.us",
+    "tvg_name": "Swerve Sports",
+    "name": "Swerve Sports (720p)",
+    "extgrp": "Sports | Other",
+    "url": "https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/x-mpegURL",
+    "is_valid_stream": true,
+    "response_time": 0.5,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"TennisChannel2.us\" tvg-name=\"Tennis Channel 2\" tvg-logo=\"https://i.imgur.com/Z4wJ8kP.png\" group-title=\"Sports | Other\",Tennis Channel 2 (1080p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | Other",
+    "tvg_id": "TennisChannel2.us",
+    "tvg_name": "Tennis Channel 2",
+    "name": "Tennis Channel 2 (1080p)",
+    "extgrp": "Sports | Other",
+    "url": "https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/vnd.apple.mpegurl",
+    "is_valid_stream": true,
+    "response_time": 0.86,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"Unbeaten.us\" tvg-name=\"Unbeaten\" tvg-logo=\"https://i.imgur.com/W2d0qF7.png\" group-title=\"Sports | Other\",Unbeaten (1080p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | Other",
+    "tvg_id": "Unbeaten.us",
+    "tvg_name": "Unbeaten",
+    "name": "Unbeaten (1080p)",
+    "extgrp": "Sports | Other",
+    "url": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/vnd.apple.mpegurl",
+    "is_valid_stream": true,
+    "response_time": 0.48,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"WomensSportsNetwork.us\" tvg-name=\"Women's Sports Network\" tvg-logo=\"https://i.imgur.com/3d6H0QO.png\" group-title=\"Sports | Other\",Women's Sports Network (1080p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | Other",
+    "tvg_id": "WomensSportsNetwork.us",
+    "tvg_name": "Women's Sports Network",
+    "name": "Women's Sports Network (1080p)",
+    "extgrp": "Sports | Other",
+    "url": "https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/vnd.apple.mpegurl",
+    "is_valid_stream": true,
+    "response_time": 0.53,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"WorldOfFreesports.de\" tvg-name=\"World of Freesports\" tvg-logo=\"https://i.imgur.com/4lqQp4S.png\" group-title=\"Sports | Other\",World of Freesports (1080p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | Other",
+    "tvg_id": "WorldOfFreesports.de",
+    "tvg_name": "World of Freesports",
+    "name": "World of Freesports (1080p)",
+    "extgrp": "Sports | Other",
+    "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/vnd.apple.mpegurl",
+    "is_valid_stream": true,
+    "response_time": 0.36,
     "error": null
   },
   {
@@ -1747,7 +1985,24 @@
     "http_code": 200,
     "content_type": "application/x-mpegURL",
     "is_valid_stream": true,
-    "response_time": 1.97,
+    "response_time": 2.83,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"DAZNCombat.us\" tvg-name=\"DAZN Combat\" tvg-logo=\"https://i.imgur.com/kS94bdf.png\" group-title=\"Sports | UFC & Combat\",DAZN Combat (684p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | UFC & Combat",
+    "tvg_id": "DAZNCombat.us",
+    "tvg_name": "DAZN Combat",
+    "name": "DAZN Combat (684p)",
+    "extgrp": "Sports | UFC & Combat",
+    "url": "https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/x-mpegURL",
+    "is_valid_stream": true,
+    "response_time": 2.64,
     "error": null
   },
   {
@@ -1764,7 +2019,7 @@
     "http_code": 200,
     "content_type": "application/x-mpegURL",
     "is_valid_stream": true,
-    "response_time": 1.21,
+    "response_time": 1.1,
     "error": null
   },
   {
@@ -1781,7 +2036,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.7,
+    "response_time": 0.74,
     "error": null
   },
   {
@@ -1798,7 +2053,58 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.61,
+    "response_time": 0.64,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"GloryKickboxing.nl\" tvg-name=\"Glory Kickboxing\" tvg-logo=\"https://i.imgur.com/Qk99J58.png\" group-title=\"Sports | UFC & Combat\",Glory Kickboxing (720p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | UFC & Combat",
+    "tvg_id": "GloryKickboxing.nl",
+    "tvg_name": "Glory Kickboxing",
+    "name": "Glory Kickboxing (720p)",
+    "extgrp": "Sports | UFC & Combat",
+    "url": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/vnd.apple.mpegurl",
+    "is_valid_stream": true,
+    "response_time": 0.99,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"MMATV.us\" tvg-name=\"MMA-TV.com\" tvg-logo=\"https://i.imgur.com/j4q4XNf.png\" group-title=\"Sports | UFC & Combat\",MMA-TV.com (1080p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | UFC & Combat",
+    "tvg_id": "MMATV.us",
+    "tvg_name": "MMA-TV.com",
+    "name": "MMA-TV.com (1080p)",
+    "extgrp": "Sports | UFC & Combat",
+    "url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/x-mpegURL",
+    "is_valid_stream": true,
+    "response_time": 0.58,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"PFL.us\" tvg-name=\"PFL MMA\" tvg-logo=\"https://i.imgur.com/J3Zq42e.png\" group-title=\"Sports | UFC & Combat\",PFL MMA (720p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | UFC & Combat",
+    "tvg_id": "PFL.us",
+    "tvg_name": "PFL MMA",
+    "name": "PFL MMA (720p)",
+    "extgrp": "Sports | UFC & Combat",
+    "url": "https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/x-mpegURL",
+    "is_valid_stream": true,
+    "response_time": 3.25,
     "error": null
   },
   {
@@ -1815,7 +2121,7 @@
     "http_code": 200,
     "content_type": "application/vnd.apple.mpegurl",
     "is_valid_stream": true,
-    "response_time": 0.49,
+    "response_time": 0.58,
     "error": null
   },
   {
@@ -1832,7 +2138,7 @@
     "http_code": 200,
     "content_type": "application/x-mpegURL",
     "is_valid_stream": true,
-    "response_time": 1.2,
+    "response_time": 1.21,
     "error": null
   },
   {
@@ -1850,6 +2156,23 @@
     "content_type": "application/vnd.apple.mpegURL",
     "is_valid_stream": true,
     "response_time": 0.45,
+    "error": null
+  },
+  {
+    "raw_extinf": "#EXTINF:-1 tvg-id=\"XFC.us\" tvg-name=\"XFC TV\" tvg-logo=\"https://i.imgur.com/9O0O1kS.png\" group-title=\"Sports | UFC & Combat\",XFC TV (720p)",
+    "user_agent": null,
+    "referrer": null,
+    "group": "Sports | UFC & Combat",
+    "tvg_id": "XFC.us",
+    "tvg_name": "XFC TV",
+    "name": "XFC TV (720p)",
+    "extgrp": "Sports | UFC & Combat",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2247",
+    "status": "ONLINE",
+    "http_code": 200,
+    "content_type": "application/vnd.apple.mpegurl",
+    "is_valid_stream": true,
+    "response_time": 0.88,
     "error": null
   }
 ]
